@@ -8,5 +8,5 @@ Console.Clear();
 Console.Write("Введите число для проверки на четность ");
 int x = int.Parse(Console.ReadLine());
 
-if (x % 2 == 0) Console.WriteLine("ДА! Вы введли чётное число");
-else Console.WriteLine("НЕТ! Вы введли нечётное число");
+if (x % 2 == 0) Console.WriteLine("ДА! Вы ввели чётное число");
+else Console.WriteLine("НЕТ! Вы ввели нечётное число");
